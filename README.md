@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Here is some text. Gay.
+Here is some text. Lovely.
